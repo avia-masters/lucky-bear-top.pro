@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://lucky-bear-top.pro/</loc>
+        <lastmod>2026-10-05</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://lucky-bear-top.pro/games.html</loc>
+        <lastmod>2026-10-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://lucky-bear-top.pro/bonuses.html</loc>
+        <lastmod>2026-10-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://lucky-bear-top.pro/reviews.html</loc>
+        <lastmod>2026-10-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://lucky-bear-top.pro/vip.html</loc>
+        <lastmod>2026-10-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://lucky-bear-top.pro/mobile.html</loc>
+        <lastmod>2026-10-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://lucky-bear-top.pro/payments.html</loc>
+        <lastmod>2026-10-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://lucky-bear-top.pro/support.html</loc>
+        <lastmod>2026-10-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://lucky-bear-top.pro/tournaments.html</loc>
+        <lastmod>2026-10-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://lucky-bear-top.pro/faq.html</loc>
+        <lastmod>2026-10-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://lucky-bear-top.pro/about.html</loc>
+        <lastmod>2026-10-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://lucky-bear-top.pro/contacts.html</loc>
+        <lastmod>2026-10-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://lucky-bear-top.pro/rules.html</loc>
+        <lastmod>2026-10-05</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+
+    <url>
+        <loc>https://lucky-bear-top.pro/security.html</loc>
+        <lastmod>2026-10-05</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+
+</urlset>
